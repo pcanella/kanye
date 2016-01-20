@@ -24,5 +24,8 @@
         "css": "less",
         "js": "requirejs",
         "task": "grunt"
-    }
+    },
+    "engines": {
+    "node": "4.1.1"
+  }
 }

@@ -1,6 +1,4 @@
-node_modules/
+/node_modules
 npm-debug.log
-.jshintignore
-.jshintrc
-.nodemonignore
-.npmignore
+.DS_Store
+/*.env
