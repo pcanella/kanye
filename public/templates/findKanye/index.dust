@@ -1,0 +1,5 @@
+{>"layouts/master" /}
+
+{<body}
+<pre>{songs}</pre>
+{/body}

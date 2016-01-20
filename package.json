@@ -1,0 +1,28 @@
+{
+    "name": "sample",
+    "version": "0.1.0",
+    "description": "moar",
+    "author": "sample",
+    "main": "index.js",
+    "scripts": {
+        "test": "grunt test",
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "kraken-js": "^1.0.1",
+        "kraken-devtools": "^1.0.0",
+        "engine-munger": "^0.2.0",
+        "express": "^4.3.0"
+    },
+    "devDependencies": {
+        "mocha": "^1.18.0",
+        "supertest": "^0.9.0"
+    },
+    "generator-kraken": {
+        "version": "1.1.0",
+        "template": "dustjs",
+        "css": "less",
+        "js": "requirejs",
+        "task": "grunt"
+    }
+}
